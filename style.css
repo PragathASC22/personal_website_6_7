@@ -1,0 +1,94 @@
+#nav_bar{
+    font-size: 24px;
+    background-color: #0b3c5d;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+#nav_bar div{
+    color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    object-fit: contain;
+   }
+
+#logo {
+    width: auto;
+    height: 300px;
+}
+
+#home{
+    padding-top: 1%;
+    padding-bottom: 1%;
+    display: flex;
+    justify-content: center;
+    background-color: #1d2731;
+    color: white;
+}
+
+#home_column{
+    margin-left: 1%;
+    justify-content: center;
+    align-content: center;
+    padding-top: 3%;
+}
+
+#home_column h1{
+    margin-left: 25%;
+}
+
+#connections img{
+    margin-inline: 3.5%;
+    width: auto;
+    height: 64px;
+}
+
+#about{
+    background-color: #0b3c5d;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+ul {
+    display:inline-block;
+    text-align: center;
+}
+
+div{
+    color: white;
+}
+
+body {
+    background-color: #7395ae;
+}
+
+#projects{
+    background-color: #1c3446;
+}
+
+#projects h1{
+    text-align: center;
+}
+
+#seperate_projects{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#buttons{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 12%;
+    margin-right: 9%;
+    padding-bottom: 3%;
+}
